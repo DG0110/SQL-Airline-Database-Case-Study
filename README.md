@@ -34,3 +34,7 @@ the aircraft (such verification can be done using table triggers, or at the appl
 level).
 
 Following is the ER diagram for the database
+
+
+![image](https://github.com/DG0110/SQL-Airline-Database-Case-Study/assets/112652526/9f1ad264-91b2-43fc-ba3d-da635377a00d)
+

@@ -36,5 +36,5 @@ level).
 Following is the ER diagram for the database
 
 
-![image](https://github.com/DG0110/SQL-Airline-Database-Case-Study/assets/112652526/9f1ad264-91b2-43fc-ba3d-da635377a00d)
+![image](https://github.com/DG0110/SQL-Airline-Database-Case-Study/assets/112652526/f642ae1f-c369-40aa-abb5-5f4397876bb0)
 

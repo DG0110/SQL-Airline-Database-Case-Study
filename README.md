@@ -2,6 +2,10 @@
 This Repository contains the solutions for the case study performed on Airline database in Postgres SQL.
 
 
+![image](https://github.com/DG0110/SQL-Airline-Database-Case-Study/assets/112652526/31ee1b21-de17-40fa-aa7f-cd5778d744a8)
+
+
+
 AIRLINE DATABASE
 
 One booking can include several passengers, with a separate ticket (tickets) issued to
